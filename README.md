@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lflv3ulst3lskyxrjfekt62ykm)
+
 <!--
 **Muzi12345632/Muzi12345632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
