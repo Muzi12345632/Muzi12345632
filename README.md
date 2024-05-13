@@ -11,7 +11,7 @@
   ![Alt text](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
   
               
-  
+  <!--
   <br/>
   
   [![Muzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muzi12345632&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,7 +19,18 @@
   <br/>
 
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Muzi12345632&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Muzi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Muzi12345632&show_icons=true&theme=radical&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  <br/>
+  -->
+
+  | Languages | Stats |
+|----------|----------|
+| [![Muzi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Muzi12345632&show_icons=true&theme=radical&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)| [![Muzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muzi12345632&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
+
+
+
   
   <h2>Tech Stack</h2>
   
