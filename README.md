@@ -62,7 +62,7 @@
  
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muzi12345632&repo=Gadget-Allocation-Service)](https://github.com/anuraghazra/github-readme-stats)             
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muzi12345632&repo=Java-SchoolManagement-API)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muzi12345632&repo=Java-SchoolManagement-API)](https://github.com/anuraghazra/github-readme-stats) <br>
   [![Readme  Card](https://github-readme-stats.vercel.app/api/pin/?username=Muzi12345632&repo=Reserve-A-Table)](https://github.com/anuraghazra/github-readme-stats) 
   
   <br>
