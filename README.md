@@ -1,29 +1,17 @@
 
-<div align="center">
+<div >
   <h1>Hi there 👋</h1>
   
   <br/>
   
-  <p align="center">I AM MUZIWANDILE NKOMO A SOFTWARE DEVELOPER FROM BULAWAYO ZIMBABWE</p>
+  <p>I AM MUZIWANDILE NKOMO A SOFTWARE DEVELOPER FROM BULAWAYO ZIMBABWE</p>
   
   ![Alt text](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&https://www.linkedin.com/in/muzi-nkomo-2715701b9/)
   ![Alt text](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)
   ![Alt text](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
   
               
-  <!--
-  <br/>
   
-  [![Muzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muzi12345632&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-  <br/>
-
-  <br/>
-
-  [![Muzi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Muzi12345632&show_icons=true&theme=radical&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-  <br/>
-  -->
 
   | Languages | Stats |
 |----------|----------|
@@ -33,7 +21,8 @@
 
   
   <h2>Tech Stack</h2>
-  
+<br>
+ 
   ![Alt text](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
   ![Alt text](https://img.shields.io/badge/JSS-F7DF1E.svg?style=for-the-badge&logo=JSS&logoColor=black)
   ![Alt text](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)
@@ -60,23 +49,21 @@
   ![Alt text](https://img.shields.io/badge/OpenJDK-FFFFFF.svg?style=for-the-badge&logo=OpenJDK&logoColor=black)
   ![Alt text](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
   ![Alt text](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+</div>
 
-  </div>
-  
-  <details>
-    <summary>Resume</summary>
-    resume loading...
-    
-  </details>
-  
-  <br>
-  
-   <details>
-    <summary>Projects</summary>
-    
-  </details>
+<br>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muzi12345632&repo=Gadget-Allocation-Service)](https://github.com/anuraghazra/github-readme-stats)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muzi12345632&repo=Java-SchoolManagement-API)](https://github.com/anuraghazra/github-readme-stats) [![Readme  Card](https://github-readme-stats.vercel.app/api/pin/?username=Muzi12345632&repo=Reserve-A-Table)](https://github.com/anuraghazra/github-readme-stats) 
+> [!NOTE]
+> An experienced software engineer adept at guiding design teams, testing existing software, deploying changes to enhance the IT infrastructure, and assessing and establishing security   protocols..
+
+<br>
+  
+
+ 
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muzi12345632&repo=Gadget-Allocation-Service)](https://github.com/anuraghazra/github-readme-stats)             
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muzi12345632&repo=Java-SchoolManagement-API)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Readme  Card](https://github-readme-stats.vercel.app/api/pin/?username=Muzi12345632&repo=Reserve-A-Table)](https://github.com/anuraghazra/github-readme-stats) 
   
   <br>
   
