@@ -1,23 +1,24 @@
 
-<div >
-  <h1>Hi there 👋</h1>
+
+  # Hi there 👋
   
   <br/>
   
-  <p>I AM MUZIWANDILE NKOMO A SOFTWARE DEVELOPER FROM BULAWAYO ZIMBABWE</p>
+  ***I AM MUZIWANDILE NKOMO A SOFTWARE DEVELOPER FROM BULAWAYO ZIMBABWE***
+  <br>
   
   ![Alt text](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&https://www.linkedin.com/in/muzi-nkomo-2715701b9/)
   ![Alt text](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)
   ![Alt text](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
   
-              
+ <br>             
   
 
   | Languages | Stats |
 |----------|----------|
 | [![Muzi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Muzi12345632&show_icons=true&theme=radical&layout=compact&hide_progress=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)| [![Muzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muzi12345632&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
 
-
+<br>
 
   
   <h2>Tech Stack</h2>
@@ -49,7 +50,7 @@
   ![Alt text](https://img.shields.io/badge/OpenJDK-FFFFFF.svg?style=for-the-badge&logo=OpenJDK&logoColor=black)
   ![Alt text](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
   ![Alt text](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
-</div>
+
 
 <br>
 
